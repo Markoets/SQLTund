@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\StoredProcedure\\StoredProcedure\\StoredProcedure.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\SQLTund\\StoredProcedure\\StoredProcedure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\StoredProcedure\\StoredProcedure\\StoredProcedure.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\SQLTund\\StoredProcedure\\StoredProcedure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\StoredProcedure\\StoredProcedure\\StoredProcedure.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\SQLTund\\StoredProcedure\\StoredProcedure.csproj",
         "projectName": "StoredProcedure",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\StoredProcedure\\StoredProcedure\\StoredProcedure.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\SQLTund\\StoredProcedure\\StoredProcedure.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\StoredProcedure\\StoredProcedure\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\SQLTund\\StoredProcedure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -56,6 +56,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.20, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             }
           },
           "imports": [
@@ -76,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
         }
       }
     }
